@@ -1,0 +1,3 @@
+[submodule "Plugin1"]
+	path = Plugin1
+	url = https://github.com/kavin1730/Plugin1.git
